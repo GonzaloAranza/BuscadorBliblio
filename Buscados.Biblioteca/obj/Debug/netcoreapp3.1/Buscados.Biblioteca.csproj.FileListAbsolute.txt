@@ -1,0 +1,27 @@
+C:\Users\Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\bin\Debug\netcoreapp3.1\Buscados.Biblioteca.exe
+C:\Users\Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\bin\Debug\netcoreapp3.1\Buscados.Biblioteca.deps.json
+C:\Users\Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\bin\Debug\netcoreapp3.1\Buscados.Biblioteca.runtimeconfig.json
+C:\Users\Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\bin\Debug\netcoreapp3.1\Buscados.Biblioteca.runtimeconfig.dev.json
+C:\Users\Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\bin\Debug\netcoreapp3.1\Buscados.Biblioteca.dll
+C:\Users\Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\bin\Debug\netcoreapp3.1\Buscados.Biblioteca.pdb
+C:\Users\Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.csprojAssemblyReference.cache
+C:\Users\Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.AssemblyInfo.cs
+C:\Users\Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.dll
+C:\Users\Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.pdb
+C:\Users\Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.genruntimeconfig.cache
+C:\Users\Gonza\Desktop\Facu - Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\bin\Debug\netcoreapp3.1\Buscados.Biblioteca.exe
+C:\Users\Gonza\Desktop\Facu - Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\bin\Debug\netcoreapp3.1\Buscados.Biblioteca.deps.json
+C:\Users\Gonza\Desktop\Facu - Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\bin\Debug\netcoreapp3.1\Buscados.Biblioteca.runtimeconfig.json
+C:\Users\Gonza\Desktop\Facu - Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\bin\Debug\netcoreapp3.1\Buscados.Biblioteca.runtimeconfig.dev.json
+C:\Users\Gonza\Desktop\Facu - Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\bin\Debug\netcoreapp3.1\Buscados.Biblioteca.dll
+C:\Users\Gonza\Desktop\Facu - Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\bin\Debug\netcoreapp3.1\Buscados.Biblioteca.pdb
+C:\Users\Gonza\Desktop\Facu - Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\Facu - Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonza\Desktop\Facu - Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Gonza\Desktop\Facu - Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.AssemblyInfo.cs
+C:\Users\Gonza\Desktop\Facu - Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\Facu - Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.dll
+C:\Users\Gonza\Desktop\Facu - Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.pdb
+C:\Users\Gonza\Desktop\Facu - Gonza\source\repos\Buscados.Biblioteca\Buscados.Biblioteca\obj\Debug\netcoreapp3.1\Buscados.Biblioteca.genruntimeconfig.cache

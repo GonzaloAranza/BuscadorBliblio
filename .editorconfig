@@ -1,0 +1,7 @@
+﻿[*.{cs,vb}]
+
+# IDE0044: Agregar modificador de solo lectura
+dotnet_diagnostic.IDE0044.severity = none
+
+# IDE0052: Quitar miembros privados no leídos
+dotnet_diagnostic.IDE0052.severity = none

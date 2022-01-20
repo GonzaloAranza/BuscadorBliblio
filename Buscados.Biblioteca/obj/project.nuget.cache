@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zyPuWYO81D8flqfRkARUTxTNeAVhOFvMe8cW/3kACzakaXd6FrE92HMi5kqW5at7T/1hhH7Ll7BCyk2NIGOVRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gonza\\Desktop\\Facu - Gonza\\source\\repos\\Buscados.Biblioteca\\Buscados.Biblioteca\\Buscados.Biblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gonza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Gonza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Gonza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Gonza\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
